@@ -1,2 +1,2 @@
 # Stroop_Game
-Made in unity with a lots of LOVE
+Made in unity with lots of LOVE
